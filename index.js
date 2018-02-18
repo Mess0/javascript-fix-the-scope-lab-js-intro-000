@@ -12,7 +12,7 @@ animal = 'cat'
 function add2(n) {
   return n + two
 
-  // Feel free to move things around!
+  const n = 131
   const two = 2
 }
 
